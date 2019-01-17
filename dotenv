@@ -1,0 +1,4 @@
+LINE_PAY_CHANNEL_ID=channel_id
+LINE_PAY_CHANNEL_SECRET=channel_secret
+LINE_PAY_CONFIRM_URL=http://localhost:5000/pay/confirm
+LINE_PAY_HOSTNAME=hostname
